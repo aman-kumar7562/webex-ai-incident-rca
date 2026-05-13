@@ -1,5 +1,3 @@
----
-
 🚀 From Chasing Alerts to Asking Questions: How AI Changed Our Incident Response, RCA, and Recovery 🚀
 Wait! Have we moved beyond static and traditional dashboards. The answer is yes we finally pressed the accelerator on innovation and glided into the AI era - where investigations became an adventure driven by intelligence, context, and speed, all inside our IDE and that's the magic of Model Context Protocol (MCP).
 🧠 Life Before AI: The Traditional Way
@@ -131,7 +129,6 @@ Smarter incident handling
 
 AI made our systems interactive, not just observable.
 
----
 
 ✍️ Final Thoughts
 Introducing AI into WebEx was not a one-day change.
@@ -142,8 +139,6 @@ To:
 "Let me ask."
 And honestly - this is just the beginning 🚀
  The MCP ecosystem is evolving, and the possibilities ahead are exciting.
-
----
-
+ 
 Happy Observing, Faster Recovering, and Smarter Engineering 😊
  Author: Aman Kumar
