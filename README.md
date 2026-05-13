@@ -1,6 +1,11 @@
 🚀 From Chasing Alerts to Asking Questions: How AI Changed Our Incident Response, RCA, and Recovery 🚀
+![AI Workflow](images/image1.png)
+
 Wait! Have we moved beyond static and traditional dashboards. The answer is yes we finally pressed the accelerator on innovation and glided into the AI era - where investigations became an adventure driven by intelligence, context, and speed, all inside our IDE and that's the magic of Model Context Protocol (MCP).
+
 🧠 Life Before AI: The Traditional Way
+![Incident RCA](images/image2.png)
+
 Some time back, incident investigation meant jumping between tools - again and again.
  We manually scrubbed dashboards for metrics, searched logs for clues, checked network signals in ThousandEyes, latency, page-load, timeouts and looked up ownership details in Backstage or scattered document like Links to their PagerDuty or track of all software (services, websites, libraries etc).
 Even after all that effort, we often ended up scratching our heads, trying to stitch the story together under pressure, esp. when time is limited and expectation is high.
@@ -24,6 +29,7 @@ The problem was not lack of tools - 
 During a major incident, even 5–10 minutes of delay feels like an eternity
 That's when we started asking ourselves a serious question:
 💡 What if AI could bring all this context to us - instantly at one single IDE?
+
 🤖 Introducing AI into WebEx (With Purpose)
 We were not interested in AI as a buzzword.
 We wanted AI that could:
@@ -65,6 +71,8 @@ With Backstage connected to AI, I could simply ask:
 No more manual hunting through wikis 📚
 No more guessing ownership during incidents
 This alone saved precious minutes during outages.
+![Dashboard](images/image3.png)
+
 2️⃣ ThousandEyes MCP - Clear Network Visibility 🌐
 Network issues are often the hardest to debug:
 ISP problems?
@@ -84,6 +92,8 @@ Instead of logging into multiple portals, I just asked:
 "Which tests are impacted?"
 
 And the answers came inside the IDE.
+![Dashboard](images/image4.png)
+
 That was a big shift.
 🧑‍🚒 AI + Observability Engineer + Incident Commander
 This is where the real value showed up.
@@ -139,6 +149,7 @@ To:
 "Let me ask."
 And honestly - this is just the beginning 🚀
  The MCP ecosystem is evolving, and the possibilities ahead are exciting.
+ ![Dashboard](images/image5.png)
  
 Happy Observing, Faster Recovering, and Smarter Engineering 😊
  Author: Aman Kumar
